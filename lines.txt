@@ -1,0 +1,11 @@
+pipenv install django
+
+pipenv shell
+
+django-admin startproject django_project
+
+
+cd django_project/
+python manage.py runserver
+
+tree
