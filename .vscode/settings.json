@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/Users/David/.local/share/virtualenvs/Django_tutorial-Bvrnrs5C/bin/python"
+    "python.pythonPath": "/Users/David/.local/share/virtualenvs/Django_tutorial-Bvrnrs5C/bin/python",
+    "workbench.settings.editor": "json",
+    "workbench.settings.enableNaturalLanguageSearch": false
 }

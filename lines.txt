@@ -1,10 +1,11 @@
 pipenv install django
 
+enter the shell environment for the project
 pipenv shell
 
 django-admin startproject django_project .
 
-
+python3 manage.py startapp blog
 cd django_project/
 
 python manage.py runserver
@@ -16,3 +17,9 @@ exit pipenv with control d
 part 2
 
 https://www.youtube.com/watch?v=a48xeeo5Vnk
+
+https://github.com/dtauraso/Intro-Django/blob/master/guides/trouble.md
+
+
+
+https://code.visualstudio.com/docs/getstarted/settings
